@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "webdriver": "^9.19.2"
+  }
+}

@@ -1,0 +1,55 @@
+# Secrets
+*.env
+*.json
+*.key
+*.pem
+
+# Logs
+*.log
+*.tar.gz
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Archives
+*.zip
+*.rar
+*.7z
+
+# Node modules
+node_modules/
+
+# Logs
+*.log
+*.tar.gz
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Archives
+*.zip
+*.rar
+*.7z
+
+# Secrets
+*.env
+*.json
+*.key
+*.pem
+
+# Virtualenv
+worker_env/
+
+# Logs
+*.log
+
+# Screenshots with weird names
+screenshots_worker/*.png
+
+# Python cache
+__pycache__/
+*.pyc
+
+screenshots_worker/*.png
